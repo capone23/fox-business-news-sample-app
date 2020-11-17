@@ -1,6 +1,6 @@
-# Simple News Apps Build Using Vue
+# Fox Business News Apps Build Using Vue
 
-> Fox business sample news apps build using vue, bootstrap, nuxt and axios
+> Fox business sample news app build using vue, bootstrap, nuxt and axios
 
 ## Build Setup
 
